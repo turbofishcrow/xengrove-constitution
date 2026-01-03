@@ -1,5 +1,5 @@
 # XenGrove Constitution
-Version 1.0, adopted December 21, 2025
+Version 1.1, updated January 3, 2025
 
 ## Definitions
 ### Users
@@ -56,4 +56,4 @@ As the server owner is a single point of failure, a new owner must be chosen esp
 ## Rule changes
 **These rules will remain in effect until new ones are approved.** Server-wide rule changes require majority support among active moderators excluding the owner; changes to the Constitution require support from at least two-thirds of the active elevated members excluding the owner. The owner does not vote, but can veto the rule change. Minor additions or clarifications to the rules only need majority support from active moderators. Record every rule change and its supporters in #actions-log.
 
-Whenever the Constitution is updated, the version number and the GitHub repository https://github.com/inthar-raven/xengrove-constitution should be updated as well. Increment the minor version (the number after the period) for changes that do not require council approval; increment the major version (the number before the period) for changes that do. For every update, record the reason and supporters in #actions-log and the repository's changelog.
+Whenever the Constitution is updated, the version number and the GitHub repository https://github.com/turbofishcrow/xengrove-constitution should be updated as well. Increment the minor version (the number after the period) for changes that do not require council approval; increment the major version (the number before the period) for changes that do. For every update, record the reason and supporters in #actions-log and the repository's changelog.
