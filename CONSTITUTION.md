@@ -1,5 +1,5 @@
 # XenGrove Constitution
-Version 1.2, updated January 27, 2025
+Version 2.0, updated January 31, 2026
 
 ## Definitions
 ### Users
@@ -55,7 +55,7 @@ All standards for moderator behavior apply especially to the owner, who must be 
 As the server owner is a single point of failure, a new owner must be chosen especially cautiously. Any ownership transfer hence requires support from at least two-thirds of the active non-owner elevated members. Votes should be based on whether the new owner would satisfy the above criteria. Any server ownership transfer and its supporters should be recorded in #actions-log.
 
 ## Rule changes
-**These rules will remain in effect until new ones are approved.** Server-wide rule changes require majority support among active moderators excluding the owner; changes to the Constitution require support from at least two-thirds of the active elevated members excluding the owner. The owner does not vote, but can veto the rule change. Minor additions or clarifications to the rules only need majority support from active moderators, where the server owner has the tiebreaking vote. Record every rule change and its supporters in #actions-log.
+**These rules will remain in effect until new ones are approved.** Server-wide rule changes require majority support among active moderators excluding the owner, where the owner has veto power. Changes to the Constitution require support from at least two-thirds of the active elevated members. Minor additions or clarifications to the rules only need majority support from active moderators, where the server owner has the tiebreaking vote. Record every rule change and its supporters in #actions-log.
 
 Whenever the Constitution is updated, the version number and the GitHub repository https://github.com/turbofishcrow/xengrove-constitution should be updated as well. Increment the minor version (the number after the period) for changes that do not require council approval; increment the major version (the number before the period) for changes that do. For every update, record the reason and supporters in #actions-log and the repository's changelog.
 
