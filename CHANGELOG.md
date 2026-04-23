@@ -1,4 +1,7 @@
 # Changelog
+## [3.0] (2026-04-23)
+Add explicit supermajority vote condition for demoting councilmembers (Supported by Fumica, Leri, hkm, Unque, Qutricoth, and inthar)
+
 ## [2.0] (2026-01-31)
 Remove owner veto power from Constitution changes (Supported by Fumica, hkm, and inthar)
 
