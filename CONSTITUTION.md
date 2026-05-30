@@ -1,5 +1,5 @@
 # XenGrove Constitution
-Version 3.0, updated April 23, 2026
+Version 3.1, updated May 30, 2026
 
 ## Definitions
 ### Users
@@ -41,7 +41,7 @@ Any mod appointment by the owner must be approved by a majority of councilmember
 
 Mods are held to a higher standard of behavior than other users. If it is found that a mod's behavior merits an official warning, the offending mod will likely also be stripped of their mod powers. Cases on demoting a mod, in edge cases, should go to the council.
 
-Councilmembers may be appointed by mods if they are trusted by the council, have a record of helpfulness to the mod team, and can be trusted with sensitive information. They may be demoted if approved by >=2/3 of the remaining councilmembers.
+Councilmembers may be appointed by mods if they are trusted by the council, have a record of helpfulness to the mod team, and can be trusted with sensitive information. They may be demoted if approved by >=2/3 of the remaining councilmembers. If any server member wishes to be a councilmember, they should DM @hyperbolekillsme.
 
 All council votes, as well as appointments and demotions for elevated members, should be recorded in #actions-log along with their supporters.
 

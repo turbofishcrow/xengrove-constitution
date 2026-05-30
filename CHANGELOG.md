@@ -1,4 +1,7 @@
 # Changelog
+## [3.1] (2026-05-30)
+Add procedure for server members applying for council (approved by Dee, inthar and hkm)
+
 ## [3.0] (2026-04-23)
 Add explicit supermajority vote condition for demoting councilmembers (Supported by Fumica, Leri, hkm, Unque, Qutricoth, and inthar)
 
