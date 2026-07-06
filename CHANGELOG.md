@@ -1,4 +1,7 @@
 # Changelog
+## [4.0] (2026-07-06)
+Moderators may delete messages that break Discord TOS (Supported by Sko, wrenharmonic, Fumica, Leriendil, Unque, inthar, hkm, and Unque)
+
 ## [3.1] (2026-05-30)
 Add procedure for server members applying for council (approved by Dee, inthar and hkm)
 
