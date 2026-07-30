@@ -1,5 +1,5 @@
 # XenGrove Constitution
-Version 3.1, updated May 30, 2026
+Version 5.0, updated July 29, 2026
 
 ## Definitions
 ### Users
@@ -23,7 +23,7 @@ Version 3.1, updated May 30, 2026
 ### Moderator actions
 - Mods may write normal messages to redirect a conversation or give unofficial warnings against breaking rules. These messages are not recorded in #⁠⁠actions-log unless the [mod voice] signifier is used.
 - The [mod voice] signifier is used to explicitly invoke mod authority and thus should only be used for a good reason. Mod voice is wielding power, so **all uses of the [mod voice] signifier should be logged in #actions-log for transparency and accountability.**
-- An official warning notifies a user that they have committed a significant offense. It should inform them that it is an official warning, with the implication that ignoring it will invoke disciplinary action and could lead to a ban. Official warnings factor into future decisions on disciplinary actions. **All official warnings and disciplinary actions should be logged.**
+- An official warning notifies a user that they have committed a significant offense. It should inform them that it is an official warning and that ignoring it will invoke disciplinary action and could lead to a ban. Official warnings factor into future decisions on disciplinary actions. **All official warnings and disciplinary actions should be logged.**
 
 ## Guidelines for mod actions
 If a normal user makes a minor infraction with no pattern of offending, issue an unofficial warning first. The user should apologize, and may edit or delete their offending messages if necessary, unless said messages contain important information for the mod team. A mod can also break up discussions that may lead to rules being broken. If the infraction is more significant or the user has a pattern of offending or is being belligerent, an official warning should be given, which may be accompanied by a timeout of appropriate duration. Moderators should only remove messages if they break Discord’s TOS/Community Guidelines, or if they break server rules and could be harmful to other users reading them. **Deleting messages counts as moderator action and should thus be logged.**

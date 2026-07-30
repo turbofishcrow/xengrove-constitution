@@ -1,4 +1,7 @@
 # Changelog
+## [5.0] (2026-07-29)
+Clarify what "with the implication that ignoring it will invoke disciplinary action" means (supported by inthar, CellularAutomaton, Qutricoth, and Tristan Bay)
+
 ## [4.0] (2026-07-06)
 Moderators may delete messages that break Discord TOS (Supported by Sko, wrenharmonic, Fumica, Leriendil, Unque, inthar, hkm, and Unque)
 
